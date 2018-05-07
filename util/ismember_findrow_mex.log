@@ -1,0 +1,25 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=mex 2015.5.24)  30 JAN 2016 13:57
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**ismember_findrow_mex.c
+(./ismember_findrow_mex.c
+This is MeX  Version 1.05  18 XII 1993  (B. Jackowski & M. Ry\'cko)
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.2 ...d in the function [aaa,bbb,ccc] = ismember_
+                                                  findrow_mex_my(A,B)
+? 
+! Emergency stop.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.2 ...d in the function [aaa,bbb,ccc] = ismember_
+                                                  findrow_mex_my(A,B)
+End of file on the terminal!
+
+No pages of output.
