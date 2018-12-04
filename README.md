@@ -50,9 +50,9 @@ The parameters is a MATLAB structure with the following fields:
 
 ## Inventory
 
-*Note: some of the util functions were also used in our MICI algorithm. Check out the repo here: [[`MICI Repository`](https://github.com/GatorSense/MICI)]
+* Note: some of the util functions were also used in our MICI algorithm. Check out the repo here: [[`MICI Repository`](https://github.com/GatorSense/MICI)]
 
-*Note: the CI-QP (CI fusion using quadratic programming) approach was also implemented and available in our MICI repository.
+* Note: the CI-QP (CI fusion using quadratic programming) approach was also implemented and available in our MICI repository.
 
 ```
 https://github.com/GatorSense/MIMRF
@@ -88,7 +88,7 @@ This source code is licensed under the license found in the [`LICENSE`](LICENSE)
 
 This product is Copyright (c) 2018 X. Du and A. Zare. All rights reserved.
 
-## <a name="CitingMIMRF"></a>Citing CitingMIMRF
+## <a name="CitingMIMRF"></a>Citing MIMRF
 
 If you use the MIMRF multi-resolution fusion algorithm, please cite the following reference using the following BibTeX entries.
 ```
