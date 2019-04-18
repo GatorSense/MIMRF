@@ -3,7 +3,7 @@
 
 _Xiaoxiao Du and Alina Zare_
 
-If you use this code, cite it: Xiaoxiao Du, & Alina Zare. (2019, April 12). GatorSense/MIMRF: Initial Release (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.2638382 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2638382.svg)](https://doi.org/10.5281/zenodo.2638382)
+If you use this code, cite it: Xiaoxiao Du & Alina Zare. (2019, April 12). GatorSense/MIMRF: Initial Release (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.2638382 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2638382.svg)](https://doi.org/10.5281/zenodo.2638382)
 
 [[`arXiv`](https://arxiv.org/abs/1805.00930)] [[`BibTeX`](#CitingMIMRF)]
 
